@@ -1,0 +1,38 @@
+System Requirements Document Planning
+-------------------------------------
+
+Name
+	Eweviwo Production System (EPS) - Can be renamed 
+
+Language 
+	Python 
+
+Purpose 
+	Collaboration tool for producers, presenters and editors to make podcast episodes
+
+Intended Use 
+	To be an online web application 
+
+Rough Product Scope 
+	Producers, presenters and editors should be able to login and know what work needs to be done within a short time.
+	It is not a podcast editing software.
+	It will not incorporate into the mobile app, it will be a standalone web application. 
+	It isn't going to be an AI project.
+	CDN will connect at a point. 
+	
+Rough Assumptions
+	Users will be spread across Europe, Africa and North America majorly 
+
+******************************************************************************************************************************
+
+Things to address in document maturation 
+ 
+	Functional Requirements 
+	Non-Functional Requirements 
+	System Features 
+	Design Constraints 
+	Budget 
+	Simple Product Roadmap 
+
+
+
